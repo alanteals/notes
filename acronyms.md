@@ -154,6 +154,7 @@
 | OATS | Oracle Application Testing Suite
 | OBPM | Oracle Business Process Management
 | ODI  | Oracle Data Integrator
+| OKR  | Objectives and Key Results. Framework for tracking objectives
 | OLT  | Oracle Load Testing
 | OOP  | Object-Oriented Programming
 | OOPSLA| Object-Oriented Programming, Systems, Languages & Applications
@@ -181,7 +182,7 @@
 | :--- | ---
 | REST | REpresentational State Transfer
 | RDBMS| Relational DataBase Management System
-| RFP  | Request For Proposal</i>. Documento formal que contiene los detalles técnicos, funcionales y económicos de un proyecto a los que se debe ajustar la propuesta de un proveedor antes de ser seleccionado.</td>
+| RFP  | Request For Proposal
 | ROR  | Ruby on Rails
 | RPC  | Remote Procedure Call
 | RUP  | Rational Unified Process
