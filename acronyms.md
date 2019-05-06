@@ -49,6 +49,7 @@
 | DML  | Data Manipulation Language
 | DOM  | Document Object Model
 | DSDM | Dynamic Systems Development
+| DIY  | Do-It-Yourself
 
 ### E
 |      |     |
